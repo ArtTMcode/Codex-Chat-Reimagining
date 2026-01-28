@@ -44,3 +44,5 @@ const styles = StyleSheet.create({
         marginBottom: 10,
     }
 })
+
+export default LoginScreen;
